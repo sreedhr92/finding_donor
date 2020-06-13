@@ -1,2 +1,9 @@
 # finding_donor
-This is small project which finds whether the individual will able to be donate or not based on 13 unstructured features.
+
+# Supervised Learning
+
+# Project :Finding Donors for *CharityML
+
+  This project predict whether an individual able to donate or not using 13 unstructured features.
+  In this project ,I used RandomForestClassifier as the model to train the dataset.
+
